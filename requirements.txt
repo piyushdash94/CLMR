@@ -1,7 +1,7 @@
 simclr
 torchaudio-augmentations
-torch==2.2.0
-torchaudio==2.2.0
+torch==1.13.1
+torchaudio==0.13.1
 pytorch-lightning
 soundfile
 scikit-learn
