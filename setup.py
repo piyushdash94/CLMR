@@ -22,8 +22,8 @@ VERSION = "0.1.0"
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    "torch==1.9.0",
-    "torchaudio",
+    "torch==1.13.1",
+    "torchaudio==0.13.1",
     "simclr",
     "torchaudio-augmentations",
     "pytorch-lightning",
